@@ -1,0 +1,14 @@
+{
+   "api": {
+      "old": "https://localhost:44323/",
+      "base": "http://weed1210-001-site1.gtempurl.com/",
+      "auth": "api/auth",
+      "businessProfile": "odata/BusinessProfiles",
+      "job": "odata/Jobs",
+      "category": "odata/Categories",
+      "freelancerProfile": "odata/FreelancerProfiles"
+   },
+   "encryption": {
+      "key": "ahihi"
+   }
+}

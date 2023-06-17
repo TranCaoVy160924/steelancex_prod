@@ -1,0 +1,18 @@
+{
+  "extends": [
+    "stylelint-config-standard",
+    "stylelint-config-recommended",
+    "stylelint-config-styled-components"
+  ],
+  "plugins": [
+    "stylelint-order",
+    "stylelint-config-styled-components"
+  ],
+  "rules": {
+    "order/properties-order": [],
+    "selector-pseudo-element-no-unknown": null,
+    "declaration-empty-line-before": null,
+    "declaration-block-trailing-semicolon": null,
+    "no-descending-specificity": null
+  }
+}

@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'GreyQo-Regular';
+  src: url('../fonts/GreyQo-Regular.ttf') format('truetype');
+  /* Thay đổi FontFileName thành tên file font chữ của bạn */
+  font-weight: normal;
+  font-style: normal;
+}
